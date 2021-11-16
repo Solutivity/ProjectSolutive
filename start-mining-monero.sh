@@ -3,4 +3,4 @@
 #This is an example you can edit and use
 #There are numerous parameters you can set, please check Help and Examples folder
 
-./SRBMiner-MULTI --disable-gpu --algorithm randomx --pool de.monero.herominers.com:1111 --wallet 4A5hJyu2FvuM2azexYssHW2odrNCNWVqLLmzCowrA57xGJLNufXfzVgcMpAy3YWpzZSAPALhVH4Ed7xo6RZYyw2bUtbm12g
+./SRBMiner-MULTI --disable-gpu --algorithm randomx --pool sg.minexmr.com:1111 --wallet 46FvhN982rHFm5svDPkkAGXJR3qEeyUFtCJALJ13nXSeXBAuqKCSX186Ewcwy4n9PWJeKAoAJwJBob7w33ZyvfpdKWWV2EN
